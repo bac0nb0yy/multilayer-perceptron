@@ -1,0 +1,2 @@
+DEFAULT_LOCATION_DATAS_FOLDER = "data"
+DEFAULT_LOCATION_DATASET = "data/raw_data.csv"
